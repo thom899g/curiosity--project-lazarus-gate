@@ -1,0 +1,15 @@
+# Core Trading & Data
+ccxt==4.2.71
+pandas==2.2.1
+numpy==1.26.4
+
+# Firebase for State & Telemetry
+firebase-admin==6.2.0
+
+# Configuration & Logging
+python-dotenv==1.0.0
+structlog==24.1.0
+
+# Testing & Monitoring
+pytest==8.0.0
+psutil==5.9.8
